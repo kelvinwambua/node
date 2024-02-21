@@ -1,0 +1,133 @@
+Background characteristics,Value,Category,Proportion,Gender
+Age,15-19,Heard of ARVs that treat HIV,81.5,Women
+Age,15-19,Know risk of MTCT reduced by mother's special drugs,60.3,Women
+Age,15-19,Heard of PrEP,31.4,Women
+Age,15-19,Approve of people taking PrEP,64.6,Women
+Age,20-24,Heard of ARVs that treat HIV,93.2,Women
+Age,20-24,Know risk of MTCT reduced by mother's special drugs,73,Women
+Age,20-24,Heard of PrEP,52,Women
+Age,20-24,Approve of people taking PrEP,70.5,Women
+Age,25-29,Heard of ARVs that treat HIV,94.6,Women
+Age,25-29,Know risk of MTCT reduced by mother's special drugs,80.7,Women
+Age,25-29,Heard of PrEP,57.1,Women
+Age,25-29,Approve of people taking PrEP,68.5,Women
+Age,30-39,Heard of ARVs that treat HIV,95,Women
+Age,30-39,Know risk of MTCT reduced by mother's special drugs,82.6,Women
+Age,30-39,Heard of PrEP,53.1,Women
+Age,30-39,Approve of people taking PrEP,73,Women
+Age,40-49,Heard of ARVs that treat HIV,95.5,Women
+Age,40-49,Know risk of MTCT reduced by mother's special drugs,80,Women
+Age,40-49,Heard of PrEP,45.6,Women
+Age,40-49,Approve of people taking PrEP,74.5,Women
+Age,15-19,Heard of ARVs that treat HIV,79.8,Men
+Age,15-19,Know risk of MTCT reduced by mother's special drugs,53.7,Men
+Age,15-19,Heard of PrEP,26.5,Men
+Age,15-19,Approve of people taking PrEP,56.6,Men
+Age,20-24,Heard of ARVs that treat HIV,94.7,Men
+Age,20-24,Know risk of MTCT reduced by mother's special drugs,67.6,Men
+Age,20-24,Heard of PrEP,49.6,Men
+Age,20-24,Approve of people taking PrEP,62.3,Men
+Age,25-29,Heard of ARVs that treat HIV,97.7,Men
+Age,25-29,Know risk of MTCT reduced by mother's special drugs,77.4,Men
+Age,25-29,Heard of PrEP,61,Men
+Age,25-29,Approve of people taking PrEP,63.2,Men
+Age,30-39,Heard of ARVs that treat HIV,96.8,Men
+Age,30-39,Know risk of MTCT reduced by mother's special drugs,81.1,Men
+Age,30-39,Heard of PrEP,58.9,Men
+Age,30-39,Approve of people taking PrEP,65,Men
+Age,40-49,Heard of ARVs that treat HIV,96.4,Men
+Age,40-49,Know risk of MTCT reduced by mother's special drugs,81.5,Men
+Age,40-49,Heard of PrEP,53.4,Men
+Age,40-49,Approve of people taking PrEP,61.3,Men
+Age,50-54,Heard of ARVs that treat HIV,96.3,Men
+Age,50-54,Know risk of MTCT reduced by mother's special drugs,82.4,Men
+Age,50-54,Heard of PrEP,49.5,Men
+Age,50-54,Approve of people taking PrEP,65.8,Men
+Marital status,Never married,Heard of ARVs that treat HIV,88.1,Women
+Marital status,Never married,Know risk of MTCT reduced by mother's special drugs,66.9,Women
+Marital status,Never married,Heard of PrEP,44,Women
+Marital status,Never married,Approve of people taking PrEP,67.1,Women
+Marital status,Ever had sex,Heard of ARVs that treat HIV,93.7,Women
+Marital status,Ever had sex,Know risk of MTCT reduced by mother's special drugs,74.3,Women
+Marital status,Ever had sex,Heard of PrEP,55.5,Women
+Marital status,Ever had sex,Approve of people taking PrEP,67.7,Women
+Marital status,Never had sex,Heard of ARVs that treat HIV,82.1,Women
+Marital status,Never had sex,Know risk of MTCT reduced by mother's special drugs,58.9,Women
+Marital status,Never had sex,Heard of PrEP,31.6,Women
+Marital status,Never had sex,Approve of people taking PrEP,66.1,Women
+Marital status,Married/Living together,Heard of ARVs that treat HIV,93.7,Women
+Marital status,Married/Living together,Know risk of MTCT reduced by mother's special drugs,79.9,Women
+Marital status,Married/Living together,Heard of PrEP,49.7,Women
+Marital status,Married/Living together,Approve of people taking PrEP,72.3,Women
+Marital status,Divorced/Separated/Widowed,Heard of ARVs that treat HIV,95.4,Women
+Marital status,Divorced/Separated/Widowed,Know risk of MTCT reduced by mother's special drugs,81.2,Women
+Marital status,Divorced/Separated/Widowed,Heard of PrEP,52.5,Women
+Marital status,Divorced/Separated/Widowed,Approve of people taking PrEP,72.1,Women
+Marital status,Never married,Heard of ARVs that treat HIV,88.1,Men
+Marital status,Never married,Know risk of MTCT reduced by mother's special drugs,62.6,Men
+Marital status,Never married,Heard of PrEP,41.2,Men
+Marital status,Never married,Approve of people taking PrEP,62.9,Men
+Marital status,Ever had sex,Heard of ARVs that treat HIV,94.1,Men
+Marital status,Ever had sex,Know risk of MTCT reduced by mother's special drugs,70,Men
+Marital status,Ever had sex,Heard of PrEP,50.3,Men
+Marital status,Ever had sex,Approve of people taking PrEP,62.9,Men
+Marital status,Never had sex,Heard of ARVs that treat HIV,76.9,Men
+Marital status,Never had sex,Know risk of MTCT reduced by mother's special drugs,48.5,Men
+Marital status,Never had sex,Heard of PrEP,23.9,Men
+Marital status,Never had sex,Approve of people taking PrEP,62.8,Men
+Marital status,Married/Living together,Heard of ARVs that treat HIV,96.8,Men
+Marital status,Married/Living together,Know risk of MTCT reduced by mother's special drugs,80.8,Men
+Marital status,Married/Living together,Heard of PrEP,57.3,Men
+Marital status,Married/Living together,Approve of people taking PrEP,62.1,Men
+Marital status,Divorced/Separated/Widowed,Heard of ARVs that treat HIV,96.1,Men
+Marital status,Divorced/Separated/Widowed,Know risk of MTCT reduced by mother's special drugs,76.9,Men
+Marital status,Divorced/Separated/Widowed,Heard of PrEP,50.4,Men
+Marital status,Divorced/Separated/Widowed,Approve of people taking PrEP,60.7,Men
+Residence,Urban,Heard of ARVs that treat HIV,95.3,Women
+Residence,Urban,Know risk of MTCT reduced by mother's special drugs,81.8,Women
+Residence,Urban,Heard of PrEP,58.1,Women
+Residence,Urban,Approve of people taking PrEP,67.6,Women
+Residence,Rural,Heard of ARVs that treat HIV,89.9,Women
+Residence,Rural,Know risk of MTCT reduced by mother's special drugs,71.8,Women
+Residence,Rural,Heard of PrEP,41.3,Women
+Residence,Rural,Approve of people taking PrEP,73.9,Women
+Residence,Urban,Heard of ARVs that treat HIV,96.3,Men
+Residence,Urban,Know risk of MTCT reduced by mother's special drugs,79.8,Men
+Residence,Urban,Heard of PrEP,61.5,Men
+Residence,Urban,Approve of people taking PrEP,70.7,Men
+Residence,Rural,Heard of ARVs that treat HIV,90.1,Men
+Residence,Rural,Know risk of MTCT reduced by mother's special drugs,66.6,Men
+Residence,Rural,Heard of PrEP,41.1,Men
+Residence,Rural,Approve of people taking PrEP,54.3,Men
+Education,No education,Heard of ARVs that treat HIV,65.5,Women
+Education,No education,Know risk of MTCT reduced by mother's special drugs,39.6,Women
+Education,No education,Heard of PrEP,15,Women
+Education,No education,Approve of people taking PrEP,60.3,Women
+Education,Primary,Heard of ARVs that treat HIV,90.6,Women
+Education,Primary,Know risk of MTCT reduced by mother's special drugs,74.5,Women
+Education,Primary,Heard of PrEP,40.8,Women
+Education,Primary,Approve of people taking PrEP,76.3,Women
+Education,Secondary,Heard of ARVs that treat HIV,94.2,Women
+Education,Secondary,Know risk of MTCT reduced by mother's special drugs,77.4,Women
+Education,Secondary,Heard of PrEP,48.8,Women
+Education,Secondary,Approve of people taking PrEP,71.2,Women
+Education,More than secondary,Heard of ARVs that treat HIV,98.5,Women
+Education,More than secondary,Know risk of MTCT reduced by mother's special drugs,85.9,Women
+Education,More than secondary,Heard of PrEP,70.6,Women
+Education,More than secondary,Approve of people taking PrEP,64.7,Women
+Education,No education,Heard of ARVs that treat HIV,69.2,Men
+Education,No education,Know risk of MTCT reduced by mother's special drugs,41.4,Men
+Education,No education,Heard of PrEP,11.7,Men
+Education,No education,Approve of people taking PrEP,66.4,Men
+Education,Primary,Heard of ARVs that treat HIV,88.2,Men
+Education,Primary,Know risk of MTCT reduced by mother's special drugs,67.5,Men
+Education,Primary,Heard of PrEP,38,Men
+Education,Primary,Approve of people taking PrEP,61.1,Men
+Education,Secondary,Heard of ARVs that treat HIV,94.9,Men
+Education,Secondary,Know risk of MTCT reduced by mother's special drugs,71.5,Men
+Education,Secondary,Heard of PrEP,47,Men
+Education,Secondary,Approve of people taking PrEP,61.7,Men
+Education,More than secondary,Heard of ARVs that treat HIV,98.7,Men
+Education,More than secondary,Know risk of MTCT reduced by mother's special drugs,83.8,Men
+Education,More than secondary,Heard of PrEP,77.7,Men
+Education,More than secondary,Approve of people taking PrEP,64.2,Men
