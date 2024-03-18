@@ -1,0 +1,15 @@
+const {addMember,removeMember} = require("../utitlities/addRemove")
+const groupTransfer = require("../utitlities/grouptransfer")
+const { Sacco, Chama, removeUsers } = require("./groups")
+const {sequentialTransfer,singleFundTransfer,withdraw}= require("../utitlities/userTransactions")
+const {generateTransactionBreakdown,transactionHistory}= require("./history")
+
+addMember(Sacco,"kelvinwambua",5000)// Group(Sacco or Chama) ,  username wanted, amount in account
+removeMember(Sacco,"f5g8h3j2")//Takes the Group(Sacco or Chama) and the id of the member
+removeUsers(Sacco,6)//username and number of members to be removed
+groupTransfer(Sacco)//Takes the group name
+singleFundTransfer("f5g8h3j2",2000)// takes the user's id and the amount
+sequentialTransfer(["f5g8h3j2","a7t9k2w5","q2e4t6y8","u7i9o1p3"], [20000,10000,110000,20000,20000])//takes and array of user Ids and amounts
+withdraw(500)//Takes 500(for groceries) or 1000(for mother)
+console.table(transactionHistory)
+generateTransactionBreakdown()
