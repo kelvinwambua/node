@@ -1,0 +1,309 @@
+body {
+  margin: 0;
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #e9eff1;
+  background-color: #040708;
+}
+
+.Sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 50px;
+  height: 100vh;
+  background-color: #0d1113;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  transition: width 0.3s ease;
+  border-radius: 15px;
+  font-size: 30px;
+  border-style: solid;
+  border-color: #a3b4d8;
+}
+
+.Sidebar:hover {
+  width: 200px; /* Expanded width on hover */
+  font-size: 30px;
+}
+
+.Sidebar div {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* Align items at the start of the container */
+  height: 50px; /* Height of each item */
+  width: 100%; /* Ensure full width */
+  padding-left: 10px; /* Add padding to align items properly */
+  box-sizing: border-box; /* Include padding in the width calculation */
+  font-size: 30px;
+}
+
+.material-symbols-outlined {
+  color: white; /* Icon color */
+  font-size: 30px; /* Icon size */
+  margin-right: 10px;
+  margin-top:10px;
+  margin-bottom: 10px; /* Adjust spacing between icon and text */
+}
+
+span {
+  color: white; /* Text color */
+  font-size: 22px; /* Text size */
+  opacity: 0; /* Initially hide text */
+  transition: opacity 0.3s ease; /* Transition for opacity change */
+}
+
+.Sidebar:hover span,
+.Sidebar:hover .material-symbols-outlined {
+  opacity: 1; /* Show icons and text when sidebar is hovered */
+}
+
+.Sidebar div:not(:hover) .material-symbols-outlined {
+  opacity: 1; /* Show icons only when sidebar is not hovered */
+}
+.Dashboard {
+  margin-top: 20px;
+}
+.Settings{
+  position: relative;
+  margin-top:240px;
+
+}
+.User{
+  position: relative;
+}
+
+.balance {
+  position: static;
+  display: inline-block;
+  font-size: 32px;
+  margin-top: 20px;
+  margin-left: 60px; /* Adjust this value as needed */
+  background-color: #0d1113;
+  width: 550px;
+  padding: 20px;
+  border-radius: 8px;
+  display: inline-block; /* Ensure balance is displayed inline */
+  border-style: solid;
+  border-color: #a3b4d8;
+}
+h3 {
+  margin-left: 35%;
+  font-size: 32px;
+}
+.transactions {
+  position: static;
+  display: inline-block;
+  font-size: 25px;
+  margin-left: 120px;
+  background-color: #0d1113;
+  width: 70%;
+  padding: 20px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #a3b4d8;
+}
+
+td {
+  padding: 10px 45px;
+}
+.sendMoney {
+  position: static;
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 30px;
+  background-color: #0d1113;
+  padding: 20px;
+  font-size: 32px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #a3b4d8;
+  width: 250px;
+}
+.icon {
+  font-size: 67px;
+  margin-left: 25%;
+}
+.withdrawMoney {
+  position: static;
+  display: inline-block;
+  margin-top: 30px;
+  background-color: #0d1113;
+  padding: 20px;
+  font-size: 32px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #a3b4d8;
+  width: 250px;
+}
+.titleArea {
+  margin-left: 210px;
+}
+.withdrawStatement {
+  font-size: 40px;
+}
+.catchPhrase {
+  font-size: 20px;
+}
+.balanceCard {
+  position: static;
+  display: inline-block;
+  font-size: 32px;
+  margin-top: 20px;
+  margin-left: 210px; /* Adjust this value as needed */
+  background-color: #0d1113;
+  width: 80%;
+  padding: 20px;
+  border-radius: 8px;
+  display: inline-block; /* Ensure balance is displayed inline */
+  border-style: solid;
+  border-color: #a3b4d8;
+}
+.withdrawCard {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 400px 400px 100px;
+  column-gap: 10px;
+  row-gap: 10px;
+  align-items: center;
+  align-items: stretch;
+  margin-left: 200px;
+  font-size: 20px;
+}
+
+input {
+  background-color: #0d1113;
+  border-style: solid;
+  border-color: #a3b4d8;
+  color: #e9eff1;
+  width: 300px;
+  border-radius: 15px;
+  height: 30px;
+  font-family: "Kanit", sans-serif;
+  font-size: 18px;
+}
+button{
+  padding-bottom: 5px;
+  background-color: #0d1113;
+  border-style: solid;
+  border-color: #a3b4d8;
+  width:150px;
+  height: 30px;
+  border-radius: 15px;
+  font-family: "Kanit", sans-serif;
+  font-size:18px;
+  color: #e9eff1;
+
+}
+.transactions2 {
+
+  position: static;
+  display: inline-block;
+  font-size: 25px;
+  margin-left: 210px;
+  background-color: #0d1113;
+  width:530px;
+  padding: 20px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #a3b4d8;
+}
+.transactionTitle{
+  display: inline-block;
+  margin-left: 270px;
+}
+.sendCard{
+  display: inline-grid;
+  grid-template-columns: 100px 120px 150px;
+  position: relative;
+  left: 380px;
+  top: 90px;
+  font-size: 22px;
+}
+.amount{
+  width:100px;
+  height:30px;
+}
+.sendButton{
+  width:150px;
+  height:35px;
+}
+.saccoTitle{
+  position: relative;
+margin-left: 120px;
+display: inline-block;
+z-index: -100;
+}
+.saccoTable{
+  background-color: #0d1113;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #a3b4d8;
+  margin-left: 80px;
+  position: relative;
+  z-index: -100;
+}
+.chamaTable{
+  background-color: #0d1113;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #a3b4d8;
+ left: 430px;
+  position: relative;
+  bottom:1010px;
+
+}
+ 
+
+.chamaTitle{
+  display: inline-block;
+
+  position: relative;
+  left:-10px;
+  bottom:610px;
+ 
+}
+.checkBox {
+  display: grid;
+  grid-template-columns: 180px 100px;
+  gap: 10px;
+  align-items: center;
+  justify-content: left;
+  font-size: 22px;
+  gap: 5px;
+  left:10px;
+}
+
+
+.members {
+  display: grid;
+  grid-template-columns: 200px 300px;
+  gap: 2px;
+  font-size: 22px;
+  gap: 5px;
+}
+.input1{
+  width:400px;
+
+}
+.addCard{
+  position:relative;
+  left: 800px;
+  font-size: 22px;
+  bottom: 600px;
+  background-color: #0d1113;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #a3b4d8;
+  width:410px;
+  padding:20px;
+}
+.addMemberButton{
+  margin-top: 20px;
+  margin-left:120px;
+  width: 200px;
+  height: 30px;
+}
