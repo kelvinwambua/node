@@ -13,7 +13,7 @@ body {
   top: 0;
   width: 50px;
   height: 100vh;
-  background-color: #0d1113;
+  background-color: #807af9;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -21,8 +21,6 @@ body {
   transition: width 0.3s ease;
   border-radius: 15px;
   font-size: 30px;
-  border-style: solid;
-  border-color: #a3b4d8;
 }
 
 .Sidebar:hover {
@@ -44,9 +42,7 @@ body {
 .material-symbols-outlined {
   color: white; /* Icon color */
   font-size: 30px; /* Icon size */
-  margin-right: 10px;
-  margin-top:10px;
-  margin-bottom: 10px; /* Adjust spacing between icon and text */
+  margin-right: 10px; /* Adjust spacing between icon and text */
 }
 
 span {
@@ -65,15 +61,7 @@ span {
   opacity: 1; /* Show icons only when sidebar is not hovered */
 }
 .Dashboard {
-  margin-top: 20px;
-}
-.Settings{
-  position: relative;
-  margin-top:240px;
-
-}
-.User{
-  position: relative;
+  margin-top: 50px;
 }
 
 .balance {
@@ -81,9 +69,9 @@ span {
   display: inline-block;
   font-size: 32px;
   margin-top: 20px;
-  margin-left: 60px; /* Adjust this value as needed */
+  margin-left: 290px; /* Adjust this value as needed */
   background-color: #0d1113;
-  width: 550px;
+  width: 1000px;
   padding: 20px;
   border-radius: 8px;
   display: inline-block; /* Ensure balance is displayed inline */
@@ -98,7 +86,7 @@ h3 {
   position: static;
   display: inline-block;
   font-size: 25px;
-  margin-left: 120px;
+  margin-left: 290px;
   background-color: #0d1113;
   width: 70%;
   padding: 20px;
@@ -114,7 +102,7 @@ td {
   position: static;
   display: inline-block;
   margin-top: 30px;
-  margin-left: 30px;
+  margin-left: 100px;
   background-color: #0d1113;
   padding: 20px;
   font-size: 32px;
@@ -175,135 +163,7 @@ td {
 }
 
 input {
-  background-color: #0d1113;
-  border-style: solid;
-  border-color: #a3b4d8;
-  color: #e9eff1;
-  width: 300px;
-  border-radius: 15px;
-  height: 30px;
-  font-family: "Kanit", sans-serif;
-  font-size: 18px;
-}
-button{
-  padding-bottom: 5px;
-  background-color: #0d1113;
-  border-style: solid;
-  border-color: #a3b4d8;
-  width:150px;
-  height: 30px;
-  border-radius: 15px;
-  font-family: "Kanit", sans-serif;
-  font-size:18px;
-  color: #e9eff1;
-
-}
-.transactions2 {
-
-  position: static;
-  display: inline-block;
-  font-size: 25px;
-  margin-left: 210px;
-  background-color: #0d1113;
-  width:530px;
-  padding: 20px;
-  border-radius: 5px;
-  border-style: solid;
-  border-color: #a3b4d8;
-}
-.transactionTitle{
-  display: inline-block;
-  margin-left: 270px;
-}
-.sendCard{
-  display: inline-grid;
-  grid-template-columns: 100px 120px 150px;
-  position: relative;
-  left: 380px;
-  top: 90px;
-  font-size: 22px;
-}
-.amount{
-  width:100px;
-  height:30px;
-}
-.sendButton{
-  width:150px;
-  height:35px;
-}
-.saccoTitle{
-  position: relative;
-margin-left: 120px;
-display: inline-block;
-z-index: -100;
-}
-.saccoTable{
-  background-color: #0d1113;
-  border-radius: 5px;
-  border-style: solid;
-  border-color: #a3b4d8;
-  margin-left: 80px;
-  position: relative;
-  z-index: -100;
-}
-.chamaTable{
-  background-color: #0d1113;
-  border-radius: 5px;
-  border-style: solid;
-  border-color: #a3b4d8;
- left: 430px;
-  position: relative;
-  bottom:1010px;
-
-}
- 
-
-.chamaTitle{
-  display: inline-block;
-
-  position: relative;
-  left:-10px;
-  bottom:610px;
- 
-}
-.checkBox {
-  display: grid;
-  grid-template-columns: 180px 100px;
-  gap: 10px;
-  align-items: center;
-  justify-content: left;
-  font-size: 22px;
-  gap: 5px;
-  left:10px;
-}
-
-
-.members {
-  display: grid;
-  grid-template-columns: 200px 300px;
-  gap: 2px;
-  font-size: 22px;
-  gap: 5px;
-}
-.input1{
-  width:400px;
-
-}
-.addCard{
-  position:relative;
-  left: 800px;
-  font-size: 22px;
-  bottom: 600px;
-  background-color: #0d1113;
-  border-radius: 5px;
-  border-style: solid;
-  border-color: #a3b4d8;
-  width:410px;
-  padding:20px;
-}
-.addMemberButton{
-  margin-top: 20px;
-  margin-left:120px;
-  width: 200px;
-  height: 30px;
+  width: 390px;
+  border-radius: 10px;
+  height: 20px;
 }

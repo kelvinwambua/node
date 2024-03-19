@@ -1,7 +1,7 @@
 const contacts = [
   {
     id: "a7t9k2w5",
-    userName: "Charlie", 
+    userName: "Charlie",
     balance: 2432
 },
 {
